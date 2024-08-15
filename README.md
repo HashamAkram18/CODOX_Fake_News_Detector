@@ -33,8 +33,10 @@ To use the fake news detection system, follow these steps:
 1. **Clone the repository**
 2. **Install the required dependencies**
 3. **Load the trained models**
-4. **Pass a news article to the system**
-5. **The system will predict whether the news is fake or real based on the trained models**
+4. **Run 'Streamlit run multi_model.py'**
+5. **Select the model for prediction**
+6. **Pass a news article to the input feild**
+7. **The system will predict whether the news is fake or real based on the trained models**
 
 ## Contributing
 
@@ -50,3 +52,6 @@ Citations:
 [3] https://github.com/AtharvaKulkarniIT/Fake-News-Detection-using-Machine-Learning
 [4] https://github.com/arindal1/Fake-News-Detector
 [5] https://github.com/RishabhSpark/Fake-News-Detection-System
+
+
+
